@@ -94,9 +94,10 @@ SQL语句抓包工具
 
 *   [go-sniffer](https://github.com/lotapp/go-sniffer) - 抓包截取项目中的数据库请求并解析成相应的语句。
 
-SQL通用命令行
+SQL多功能工具
 
-*   [usql](https://github.com/xo/usql) - 360开源的SQL数据库的通用命令行（支持TiDB、Cassandra、MySQL、MSSQL、Sqlite等）。
+*   [Quicksql](https://github.com/lotapp/Quicksql) - 360开源的SQL数据库的通用命令行（支持TiDB、Cassandra、MySQL、MSSQL、Sqlite等）
+*   [usql](https://github.com/lotapp/usql) - 360开源的SQL数据库的通用命令行（支持TiDB、Cassandra、MySQL、MSSQL、Sqlite等）
 
 ## 备份
 
