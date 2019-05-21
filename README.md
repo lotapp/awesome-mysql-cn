@@ -86,11 +86,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 SQL语句优化建议
 
-*   [soar](https://github.com/XiaoMi/soar) - 小米开源的MySQLSQL优化器和重写器。
+*   [soar](https://github.com/lotapp/soar) - 小米开源的MySQLSQL优化器和重写器
+*   [Web版扩展](https://github.com/lotapp/soar-web) - soar的Web版GUI
+*   [SQLAdvisor](https://github.com/LessChina/SQLAdvisor) - 美团开源的SQL索引优化工具
 
 SQL语句抓包工具
 
-*   [go-sniffer](https://github.com/40t/go-sniffer) - 抓包截取项目中的数据库请求并解析成相应的语句。
+*   [go-sniffer](https://github.com/lotapp/go-sniffer) - 抓包截取项目中的数据库请求并解析成相应的语句。
 
 SQL通用命令行
 
