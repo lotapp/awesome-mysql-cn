@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[夏了夏天](http://www.jobbole.com/members/wx2793649263/)、[lovecn](https://github.com/lovecn)、You
+- 贡献者：[夏了夏天](http://www.jobbole.com/members/wx2793649263/)、[lovecn](https://github.com/lovecn)、[dunitian](https://github.com/lotapp)、You
 
 注：名单不分排名，不定期补充更新
 
